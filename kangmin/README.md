@@ -7,3 +7,7 @@
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water)
+
+[15. 3Sum](https://leetcode.com/problems/3sum)
+
+[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
