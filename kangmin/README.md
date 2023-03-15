@@ -19,3 +19,7 @@
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+
+[39. Combination Sum](https://leetcode.com/problems/combination-sum)
+
+[48. Rotate Image](https://leetcode.com/problems/rotate-image)
